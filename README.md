@@ -2,11 +2,9 @@
 
 ## https://matti.a2hosted.com/ - stand
 
-#### Current technology stack: react, redux, axios, material-ui jne.
+### The application uses [JSONPlaceholder](http://jsonplaceholder.typicode.com/photos) as a source for the images content.
 
-#### Data model: Redux Ducks. https://github.com/erikras/ducks-modular-redux
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Install
 
@@ -44,5 +42,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
