@@ -1,6 +1,6 @@
 # React - Photobrowser.
 
-## https://matti.a2hosted.com/ - stand
+### https://matti.a2hosted.com/ - stand
 
 ### The application uses [JSONPlaceholder](http://jsonplaceholder.typicode.com/photos) as a source for the images content.
 
